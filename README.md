@@ -1,6 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-000000?logo=Linkedin&logoColor=0A66C2&labelColor=ffffff)](https://www.linkedin.com/in/kaitosekiya/)
 [![App Store](https://img.shields.io/badge/App%20Store-Apps-000000?logo=appstore&logoColor=ffffff&labelColor=0D96F6)](https://apps.apple.com/ae/developer/kaito-sekiya/id1593382615)
 [![edX](https://img.shields.io/badge/edX-Certificates-000000?logo=edx&logoColor=02262B&labelColor=ffffff)](https://profile.edx.org/u/Givikap?_gl=1*6wsb7o*_ga*Mjc3MDE5OTY4LjE2OTI3MzEzMTc.*_ga_D3KS4KMDT0*MTY5NTY5ODA3NS4yNC4xLjE2OTU2OTk4MTIuNTUuMC4w)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Coding-000000?&logo=LeetCode&logoColor=d16c06&labelColor=ffffff)](https://leetcode.com/Givikap/)
 [![Mail](https://img.shields.io/badge/Outlook-Email-000000?logo=microsoftoutlook&logoColor=0078D4&labelColor=ffffff)](mailto:kaitosekiya@outlook.com)
 
 <h2 align='center'><samp><strong>Hello there 👋, I am Kaito Sekiya</strong></samp></h2>
