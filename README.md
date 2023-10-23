@@ -1,17 +1,19 @@
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-000000?logo=Linkedin&logoColor=0A66C2&labelColor=ffffff)](https://www.linkedin.com/in/kaitosekiya/)
-[![App Store](https://img.shields.io/badge/App%20Store-Apps-000000?logo=appstore&logoColor=ffffff&labelColor=0D96F6)](https://apps.apple.com/ae/developer/kaito-sekiya/id1593382615)
-[![edX](https://img.shields.io/badge/edX-Certificates-000000?logo=edx&logoColor=02262B&labelColor=ffffff)](https://profile.edx.org/u/Givikap?_gl=1*6wsb7o*_ga*Mjc3MDE5OTY4LjE2OTI3MzEzMTc.*_ga_D3KS4KMDT0*MTY5NTY5ODA3NS4yNC4xLjE2OTU2OTk4MTIuNTUuMC4w)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Coding-000000?&logo=LeetCode&logoColor=d16c06&labelColor=ffffff)](https://leetcode.com/Givikap/)
-[![Mail](https://img.shields.io/badge/Outlook-Email-000000?logo=microsoftoutlook&logoColor=0078D4&labelColor=ffffff)](mailto:kaitosekiya@outlook.com)
+<div align="center">
+<a href="https://www.linkedin.com/in/kaitosekiya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?logo=Linkedin&logoColor=0A66C2&labelColor=ffffff" alt="Linkedin"></a>
+<a href="https://apps.apple.com/ae/developer/kaito-sekiya/id1593382615"><img src="https://img.shields.io/badge/App%20Store-Apps-000000?logo=appstore&logoColor=ffffff&labelColor=0D96F6" alt="App Store"></a>
+<a href="https://profile.edx.org/u/Givikap?_gl=1*6wsb7o*_ga*Mjc3MDE5OTY4LjE2OTI3MzEzMTc.*_ga_D3KS4KMDT0*MTY5NTY5ODA3NS4yNC4xLjE2OTU2OTk4MTIuNTUuMC4w"><img src="https://img.shields.io/badge/edX-Certificates-000000?logo=edx&logoColor=02262B&labelColor=ffffff" alt="edX"></a>
+<a href="https://leetcode.com/Givikap/"><img src="https://img.shields.io/badge/LeetCode-Coding-000000?&logo=LeetCode&logoColor=d16c06&labelColor=ffffff" alt="LeetCode"></a>
+<a href="mailto:kaitosekiya@outlook.com"><img src="https://img.shields.io/badge/Outlook-Email-000000?logo=microsoftoutlook&logoColor=0078D4&labelColor=ffffff" alt="Mail"></a>
+</div>
 
-<h2 align='center'><samp><strong>Hello there 👋, I am Kaito Sekiya</strong></samp></h2>
+<h1 align='center'><samp><strong>Hello there 👋, I am Kaito Sekiya</strong></samp></h1>
 <p align='center'>Sophomore CS Student at UIC | Undergraduate CS Research Assistant<br>Course Tracker at UICS Trackers Club at UIC | Unity IOS Mobile Games Developer</p>
 
 TODO: Summary
 
 💻 **Languages:**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffdd54&labelColor=3670A0)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp&logoColor=ffffff&labelColor=512BD4)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=cplusplus&logoColor=ffffff&labelColor=00599C)
