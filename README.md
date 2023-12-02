@@ -7,7 +7,7 @@
 </div>
 
 <h1 align='center'><samp><strong>Hello there 👋, I am Kaito Sekiya</strong></samp></h1>
-<p align='center'>Sophomore CS Student at UIC | Undergraduate CS Research Assistant<br>Course Tracker at UICS Trackers Club at UIC | Unity IOS Mobile Games Developer</p>
+<p align='center'>CS Student @ UIC | Undergraduate Research Assistant | Course Tracker</p>
 
 TODO: Summary
 
