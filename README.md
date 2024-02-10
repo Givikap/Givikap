@@ -53,3 +53,40 @@ TODO: Add
 <h3>🤓 Interested to Learn:</h3>
 
 TODO: Add
+
+<details> 
+  <summary>
+    <h2>📊 Stats and Activity</h2>
+  </summary>
+
+  <h3>📊 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&rank_icon=github"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=000000&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&rank_icon=github" height="192px"/>
+      </picture>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-light-mode-only" height="192px" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-dark-mode-only" height="192px" />
+    </a>
+  </div>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only">
+    <img src="https://streak-stats.demolab.com/?user=Givikap&background=F7F7F7&ring=FE8018&fire=FE8018&currStreakNum=000000&sideNums=000000&currStreakLabel=FE8018&sideLabels=FE8018&dates=000000&border_radius=0&hide_border=true#gh-light-mode-only" height="192px" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only">
+    <img src="https://streak-stats.demolab.com/?user=Givikap&background=151515&ring=FE8018&fire=FE8018&currStreakNum=9F9F9F&sideNums=9F9F9F&currStreakLabel=FE8018&sideLabels=FE8018&dates=9F9F9F&border_radius=0&hide_border=true#gh-dark-mode-only" height="192" />
+  </a>
+</details>
