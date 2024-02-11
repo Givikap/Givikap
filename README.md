@@ -9,7 +9,7 @@
 <h1 align='center'><samp><strong>Hello <s>World</s> Github, I am Kaito Sekiya</strong></samp></h1>
 <p align='center'>CS Student @ UIC | Undergraduate Research Assistant | Course Tracker</p>
 
-<h3>About me:</h3>
+## About me:
 
 First programming language I learned was PascalABC.NET, a modernized version of Pascal. Yes, you read that right, good old Pascal. Apparently, my middle school used a textbook that has not been updated in years. Yet, it became a great foundation when I learned C++ in high school and Python through an online course. Or when I worked on my first project - a mobile game developed with Unity and written in C# where you place blocks to build a tower as high as you can until it collapses. 
 
@@ -22,71 +22,99 @@ Joining UIC Trackers made me connected with the CS community here at UIC, such a
 
 Currently, I am seeking an internship for Summer 2024 in backend, analytics or data science. I am also considering roles in game and web development. Feel free to message me or contact me at kaitosekiya@outlook.com to discuss my qualifications further. Or just explore my Github profile or links above. 
 
-<h3>💻 Languages:</h3>
+## My Current Skills:
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffdd54&labelColor=3670A0)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp&logoColor=ffffff&labelColor=512BD4)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=cplusplus&logoColor=ffffff&labelColor=00599C)
+<h4>💻 Programming Languages:</h4>
+<p>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-a8b9cc.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2b%2b-00599c.svg?logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-512bd4.svg?logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?logo=python&logoColor=white"></a>
+</p>
 
-<h3>🛠️ Tools:</h3>
+<h4>🖋️ Markup Languages:</h4>
+<p>
+    <a href="#"><img alt="CSS5" src="https://img.shields.io/badge/CSS3-1572b6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=000000&labelColor=ffffff)
-![Xcode](https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode&logoColor=ffffff&labelColor=147EFB)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=ffffff&labelColor=5C2D91)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=ffffff&labelColor=007ACC)
-![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=ffffff&labelColor=019733)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=ffffff&labelColor=150458)
-![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy&logoColor=ffffff&labelColor=013243)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoftoffice&logoColor=ffffff&labelColor=D83B01)
+<h4>🏛️ Frameworks and Libraries:</h4>
+<p>
+    <!---<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>-->
+    <!---<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>-->
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0a9edc.svg?logo=pytest&logoColor=white"></a>
+    <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/Scipy-8caae6.svg?logo=scipy&logoColor=white"></a>
+    <!---<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>-->
+    <!---<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>-->
+</p>
 
-<h3>🧐 Knowledge of:</h3>
+<h4>🗄️ Databases:</h4>
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
 
-TODO: Add
+<!---<h4>☁️ Cloud Hosting:</h4>-->
 
-<h3>📚 Currently Learning:</h3>
+<h4>💻 Software:</h4>
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-f05032.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Google Docs" src="https://img.shields.io/badge/Docs-4285f4.svg?logo=google%20docs&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34a853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft%20excel&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/PowerPoint-b7472a.svg?logo=microsoft%20powerpoint&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Word-2b579a.svg?logo=microsoft%20word&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+    <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147efb.svg?logo=xcode&logoColor=white"></a>
+</p>
 
-TODO: Add
-
-<h3>🤓 Interested to Learn:</h3>
-
-TODO: Add
+<!--## My Future Skills:-->
 
 <details> 
   <summary>
-    <h2>📊 Stats and Activity</h2>
+    <h2>Stats and Activity</h2>
   </summary>
 
-  <h3>📊 GitHub Profile Stats</h3>
+  <h4>📊 Activity Stats</h4>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&rank_icon=github"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=000000&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&rank_icon=github" height="192px"/>
-      </picture>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-light-mode-only" height="192px" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-dark-mode-only" height="192px" />
-    </a>
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&rank_icon=github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=000000&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&rank_icon=github" width="480px"/>
+    </picture>
+  </a>
 
-  <h3>🔥 Streak Stats</h3>
+  <h4>💻 Languages Stats</h4>
+    
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-light-mode-only" width="480px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-dark-mode-only" width="480px" />
+  </a>
+
+  <h4>🔥 Streak Stats</h4>
 
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->  
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only">
-    <img src="https://streak-stats.demolab.com/?user=Givikap&background=F7F7F7&ring=FE8018&fire=FE8018&currStreakNum=000000&sideNums=000000&currStreakLabel=FE8018&sideLabels=FE8018&dates=000000&border_radius=0&hide_border=true#gh-light-mode-only" height="192px" />
+    <img src="https://streak-stats.demolab.com/?user=Givikap&background=F7F7F7&ring=FE8018&fire=FE8018&currStreakNum=000000&sideNums=000000&currStreakLabel=FE8018&sideLabels=FE8018&dates=000000&border_radius=0&hide_border=true#gh-light-mode-only" width="480px" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only">
-    <img src="https://streak-stats.demolab.com/?user=Givikap&background=151515&ring=FE8018&fire=FE8018&currStreakNum=9F9F9F&sideNums=9F9F9F&currStreakLabel=FE8018&sideLabels=FE8018&dates=9F9F9F&border_radius=0&hide_border=true#gh-dark-mode-only" height="192" />
+    <img src="https://streak-stats.demolab.com/?user=Givikap&background=151515&ring=FE8018&fire=FE8018&currStreakNum=9F9F9F&sideNums=9F9F9F&currStreakLabel=FE8018&sideLabels=FE8018&dates=9F9F9F&border_radius=0&hide_border=true#gh-dark-mode-only" width="480px" />
   </a>
 </details>
