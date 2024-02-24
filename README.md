@@ -29,7 +29,6 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-a8b9cc.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2b%2b-00599c.svg?logo=cplusplus&logoColor=white"></a>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-512bd4.svg?logo=csharp&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?logo=python&logoColor=white"></a>
 </p>
@@ -44,14 +43,12 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
 
 <h4>🏛️ Frameworks and Libraries:</h4>
 <p>
-    <!---<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>-->
     <!---<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>-->
+    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0a9edc.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/Scipy-8caae6.svg?logo=scipy&logoColor=white"></a>
-    <!---<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>-->
-    <!---<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>-->
 </p>
 
 <h4>🗄️ Databases:</h4>
@@ -79,14 +76,45 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
     <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147efb.svg?logo=xcode&logoColor=white"></a>
 </p>
 
-<!--## My Future Skills:-->
+<h4>⚙️ OS:</h4>
+<p>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624.svg?logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000.svg?logo=macos&logoColor=white"></a>
+    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-a22846.svg?logo=raspberrypi&logoColor=white"></a>
+</p>
 
+<h4>📚 Currently Learning:</h4>
+<p>
+    <a href="#"><img alt="F#" src="https://custom-icon-badges.demolab.com/badge/F%23-378bba.svg?logo=fsharp&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="JavaFX" src="https://custom-icon-badges.demolab.com/badge/JavaFX-0d7188.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4.svg?logo=tailwindcss&logoColor=%2361DAFB"></a>
+</p>
+
+<h4>🤓 Want to Learn:</h4>
+<p>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232f3e.svg?logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-a81d33.svg?logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-f24e1e.svg?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00add8.svg?logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4.svg?logo=dotnet&logoColor=white"></a>
+</p>
+
+<!--
 <details> 
   <summary>
     <h2>Stats and Activity</h2>
   </summary>
+</details>
+-->
 
-  <h4>📊 Activity Stats</h4>
+## Stats and Activity:
+
+  <!--<h4>📊 Activity Stats</h4>-->
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -95,26 +123,28 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
         srcset="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&rank_icon=github"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=000000&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&rank_icon=github" width="480px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Givikap&show_icons=true&title_color=FE8018&text_color=000000&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&rank_icon=github" height="192px"/>
     </picture>
   </a>
 
-  <h4>💻 Languages Stats</h4>
+  <!--<h4>💻 Languages Stats</h4>-->
     
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-light-mode-only" width="480px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-light-mode-only" height="192px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-dark-mode-only" width="480px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-dark-mode-only" height="192px" />
   </a>
 
-  <h4>🔥 Streak Stats</h4>
-
-  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->  
+  
+  <!--<h4>🔥 Streak Stats</h4>-->
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  
+  <!--
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only">
     <img src="https://streak-stats.demolab.com/?user=Givikap&background=F7F7F7&ring=FE8018&fire=FE8018&currStreakNum=000000&sideNums=000000&currStreakLabel=FE8018&sideLabels=FE8018&dates=000000&border_radius=0&hide_border=true#gh-light-mode-only" width="480px" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only">
     <img src="https://streak-stats.demolab.com/?user=Givikap&background=151515&ring=FE8018&fire=FE8018&currStreakNum=9F9F9F&sideNums=9F9F9F&currStreakLabel=FE8018&sideLabels=FE8018&dates=9F9F9F&border_radius=0&hide_border=true#gh-dark-mode-only" width="480px" />
   </a>
-</details>
+  -->
