@@ -66,6 +66,7 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
     <a href="#"><img alt="Google Docs" src="https://img.shields.io/badge/Docs-4285f4.svg?logo=google%20docs&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34a853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-f24e1e.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft%20excel&logoColor=white"></a>
     <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/PowerPoint-b7472a.svg?logo=microsoft%20powerpoint&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Word-2b579a.svg?logo=microsoft%20word&logoColor=white"></a>
@@ -97,7 +98,6 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232f3e.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-a81d33.svg?logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-f24e1e.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00add8.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00.svg?logo=TensorFlow&logoColor=white"></a>
