@@ -86,6 +86,7 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
 
 <h4>📚 Currently Learning:</h4>
 <p>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="F#" src="https://custom-icon-badges.demolab.com/badge/F%23-378bba.svg?logo=fsharp&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JavaFX" src="https://custom-icon-badges.demolab.com/badge/JavaFX-0d7188.svg?logo=java&logoColor=white"></a>
@@ -97,7 +98,6 @@ Currently, I am seeking an internship for Summer 2024 in backend, analytics or d
 <p>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232f3e.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-a81d33.svg?logo=debian&logoColor=white"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
     <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00add8.svg?logo=go&logoColor=white"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00.svg?logo=TensorFlow&logoColor=white"></a>
