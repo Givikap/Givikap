@@ -7,20 +7,19 @@
 </div>
 
 <h1 align='center'><samp><strong>Hello <s>World</s> Github, I am Kaito Sekiya</strong></samp></h1>
-<p align='center'>CS Student @ UIC | Undergraduate Research Assistant | Course Tracker</p>
+<p align='center'>CS @ UIC | CS Research Assistant | CS 111 Head Teaching Assistant | Recruitment Officer @ Climbing Club at UIC | Sysengineer @ Trackers</p>
 
 ## About me:
 
-First programming language I learned was PascalABC.NET, a modernized version of Pascal. Yes, you read that right, good old Pascal. Apparently, my middle school used a textbook that has not been updated in years. Yet, it became a great foundation when I learned C++ in high school and Python through an online course. Or when I worked on my first project - a mobile game developed with Unity and written in C# where you place blocks to build a tower as high as you can until it collapses. 
+Hello, Linkedin. My name is Kaito. 
 
-Now, I am a sophomore student studying Computer Science at University of Illinois at Chicago, an undergraduate research assistant for a CS faculty, and a Course Tracker for UIC Trackers. 
-Here at UIC, there are more resources available to me than I ever could access on my own or online. So far, I learned data structures, discrete mathematics, statistics, basics of Assembly, and Turing machines. And I am excited to learn more, especially about systems programming, compilers and algorithms.
+My first programming language was PascalABC.NET, a modern version of Pascal. Yes, you read it right, Pascal. All because my middle school used an ancient textbook. Yet, it became a great foundation for me to learn C/C++ in high school, Python through an online course, and other languages at the university. 
 
-My current position at UIC CS department as URA allows me to utilize and develop further my programming and analytical skills. By analyzing and visualizing data I contribute to improving the quality of CS teaching here at UIC. 
+Now, I am a junior student studying Computer Science at University of Illinois at Chicago. I work as Undergraduate Research Assistant for a CS faculty, and Head Teaching Assistant for CS 111. I am also Recruitment Officer for Climbing Club at UIC, SparkHacks 2025 Organizing Committee Member and Sysengineer at Trackers at UIC. 
 
-Joining UIC Trackers made me connected with the CS community here at UIC, such a large yet commuter school. And becoming Course Tracker was my way to give back to the community by helping other students. And if you are a CS student at UIC, consider joining Trackers.
+I have a diverse academic and professional background through coursework, work experience, personal and group projects, and self-learning. I'm passionate for learning, solving challenging problems, and teaching students.
 
-Currently, I am seeking an internship for Summer 2024 in backend, analytics or data science. I am also considering roles in game and web development. Feel free to message me or contact me at kaitosekiya@outlook.com to discuss my qualifications further. Or just explore my Github profile or links above. 
+I am deeply interested in Software Development, Systems Programming, and Data Science, areas where I constantly seek to expand my knowledge and skills. I am seeking an internship for Summer 2025 in these areas but I am also open to Game and Web Development. Feel free to message me or contact me at kaitosekiya@outlook.com to discuss my qualifications further. Or just explore my GitHub profile (I know it's lacking content). 
 
 ## My Current Skills:
 
