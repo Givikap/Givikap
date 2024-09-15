@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://www.linkedin.com/in/kaitosekiya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?logo=Linkedin&logoColor=0A66C2&labelColor=ffffff" alt="Linkedin"></a>
-<a href="https://apps.apple.com/ae/developer/kaito-sekiya/id1593382615"><img src="https://img.shields.io/badge/App%20Store-Apps-000000?logo=appstore&logoColor=ffffff&labelColor=0D96F6" alt="App Store"></a>
-<a href="https://profile.edx.org/u/Givikap?_gl=1*6wsb7o*_ga*Mjc3MDE5OTY4LjE2OTI3MzEzMTc.*_ga_D3KS4KMDT0*MTY5NTY5ODA3NS4yNC4xLjE2OTU2OTk4MTIuNTUuMC4w"><img src="https://img.shields.io/badge/edX-Certificates-000000?logo=edx&logoColor=02262B&labelColor=ffffff" alt="edX"></a>
-<a href="https://leetcode.com/Givikap/"><img src="https://img.shields.io/badge/LeetCode-Coding-000000?&logo=LeetCode&logoColor=d16c06&labelColor=ffffff" alt="LeetCode"></a>
-<a href="mailto:kaitosekiya@outlook.com"><img src="https://img.shields.io/badge/Outlook-Email-000000?logo=microsoftoutlook&logoColor=0078D4&labelColor=ffffff" alt="Mail"></a>
+    <a href="https://www.linkedin.com/in/kaitosekiya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?logo=Linkedin&logoColor=0A66C2&labelColor=ffffff" alt="Linkedin"></a>
+    <a href="https://apps.apple.com/ae/developer/kaito-sekiya/id1593382615"><img src="https://img.shields.io/badge/App%20Store-Apps-000000?logo=appstore&logoColor=ffffff&labelColor=0D96F6" alt="App Store"></a>
+    <a href="https://profile.edx.org/u/Givikap?_gl=1*6wsb7o*_ga*Mjc3MDE5OTY4LjE2OTI3MzEzMTc.*_ga_D3KS4KMDT0*MTY5NTY5ODA3NS4yNC4xLjE2OTU2OTk4MTIuNTUuMC4w"><img src="https://img.shields.io/badge/edX-Certificates-000000?logo=edx&logoColor=02262B&labelColor=ffffff" alt="edX"></a>
+    <a href="https://leetcode.com/Givikap/"><img src="https://img.shields.io/badge/LeetCode-Coding-000000?&logo=LeetCode&logoColor=d16c06&labelColor=ffffff" alt="LeetCode"></a>
+    <a href="mailto:kaitosekiya@outlook.com"><img src="https://img.shields.io/badge/Outlook-Email-000000?logo=microsoftoutlook&logoColor=0078D4&labelColor=ffffff" alt="Mail"></a>
 </div>
 
 <h1 align='center'><samp><strong>Hello <s>World</s> Github, I am Kaito Sekiya</strong></samp></h1>
@@ -28,6 +28,8 @@ I am deeply interested in Software Development, Systems Programming, and Data Sc
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-a8b9cc.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2b%2b-00599c.svg?logo=cplusplus&logoColor=white"></a>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-512bd4.svg?logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="F#" src="https://custom-icon-badges.demolab.com/badge/F%23-378bba.svg?logo=fsharp&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?logo=python&logoColor=white"></a>
 </p>
@@ -43,6 +45,7 @@ I am deeply interested in Software Development, Systems Programming, and Data Sc
 <h4>🏛️ Frameworks and Libraries:</h4>
 <p>
     <!---<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>-->
+    <a href="#"><img alt="JavaFX" src="https://custom-icon-badges.demolab.com/badge/JavaFX-0d7188.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -86,9 +89,6 @@ I am deeply interested in Software Development, Systems Programming, and Data Sc
 <h4>📚 Currently Learning:</h4>
 <p>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="F#" src="https://custom-icon-badges.demolab.com/badge/F%23-378bba.svg?logo=fsharp&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaFX" src="https://custom-icon-badges.demolab.com/badge/JavaFX-0d7188.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4.svg?logo=tailwindcss&logoColor=%2361DAFB"></a>
 </p>
@@ -103,19 +103,12 @@ I am deeply interested in Software Development, Systems Programming, and Data Sc
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4.svg?logo=dotnet&logoColor=white"></a>
 </p>
 
-<!--
-<details> 
-  <summary>
-    <h2>Stats and Activity</h2>
-  </summary>
-</details>
--->
-
 ## Stats and Activity:
 
   <!--<h4>📊 Activity Stats</h4>-->
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- https://github.com/anuraghazra/github-readme-stats-->
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
@@ -127,6 +120,7 @@ I am deeply interested in Software Development, Systems Programming, and Data Sc
   </a>
 
   <!--<h4>💻 Languages Stats</h4>-->
+  <!--
     
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=F7F7F7&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-light-mode-only" height="192px" />
@@ -135,6 +129,7 @@ I am deeply interested in Software Development, Systems Programming, and Data Sc
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Givikap&langs_count=6&layout=compact&title_color=FE8018&text_color=9F9F9F&icon_color=FE8018&bg_color=151515&border_radius=0&hide_border=true&hide=shaderlab,hlsl#gh-dark-mode-only" height="192px" />
   </a>
 
+  -->
   
   <!--<h4>🔥 Streak Stats</h4>-->
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
