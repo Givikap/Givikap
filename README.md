@@ -103,7 +103,7 @@ I am deeply interested in Software Development, Systems Programming, and Data Sc
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4.svg?logo=dotnet&logoColor=white"></a>
 </p>
 
-## Stats and Activity:
+<!--## Stats and Activity:-->
 
   <!--<h4>📊 Activity Stats</h4>-->
 
