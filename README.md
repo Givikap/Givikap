@@ -7,11 +7,10 @@
 </div>
 
 <h1 align='center'><samp><strong>Hello <s>World</s> Github, I am Kaito Sekiya</strong></samp></h1>
-<p align='center'>CS @ UIC | CS Research Assistant | CS 111 Head Teaching Assistant | Recruitment Officer @ Climbing Club at UIC | Sysengineer @ Trackers</p>
+<p align='center'>CS @ UIC | CS Research Assistant | CS 351 Lead Teaching Assistant | Recruitment Officer @ Climbing Club at UIC | Sysengineer @ Trackers</p>
 
 ## About me:
-
-Hello, Linkedin. My name is Kaito. 
+Hello, GitHub. My name is Kaito. 
 
 My first programming language was PascalABC.NET, a modern version of Pascal. Yes, you read it right, Pascal. All because my middle school used an ancient textbook. Yet, it became a great foundation for me to learn C/C++ in high school, Python through an online course, and other languages at the university. 
 
