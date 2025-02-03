@@ -1,24 +1,20 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/kaitosekiya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?logo=Linkedin&logoColor=0A66C2&labelColor=ffffff" alt="Linkedin"></a>
-    <a href="https://apps.apple.com/ae/developer/kaito-sekiya/id1593382615"><img src="https://img.shields.io/badge/App%20Store-Apps-000000?logo=appstore&logoColor=ffffff&labelColor=0D96F6" alt="App Store"></a>
-    <a href="https://profile.edx.org/u/Givikap?_gl=1*6wsb7o*_ga*Mjc3MDE5OTY4LjE2OTI3MzEzMTc.*_ga_D3KS4KMDT0*MTY5NTY5ODA3NS4yNC4xLjE2OTU2OTk4MTIuNTUuMC4w"><img src="https://img.shields.io/badge/edX-Certificates-000000?logo=edx&logoColor=02262B&labelColor=ffffff" alt="edX"></a>
-    <a href="https://leetcode.com/Givikap/"><img src="https://img.shields.io/badge/LeetCode-Coding-000000?&logo=LeetCode&logoColor=d16c06&labelColor=ffffff" alt="LeetCode"></a>
-    <a href="mailto:kaitosekiya@outlook.com"><img src="https://img.shields.io/badge/Outlook-Email-000000?logo=microsoftoutlook&logoColor=0078D4&labelColor=ffffff" alt="Mail"></a>
 </div>
 
 <h1 align='center'><samp><strong>Hello <s>World</s> Github, I am Kaito Sekiya</strong></samp></h1>
-<p align='center'>CS @ UIC | CS Research Assistant | CS 351 Lead Teaching Assistant | Recruitment Officer @ Climbing Club at UIC | Sysengineer @ Trackers</p>
+<p align='center'>CS @ UIC | CS Research Assistant | CS 351 Teaching Assistant | Recruitment Officer @ Climbing Club at UIC | Sysengineer @ Trackers</p>
 
 ## About me:
 Hello, GitHub. My name is Kaito. 
 
-My first programming language was PascalABC.NET, a modern version of Pascal. Yes, you read it right, Pascal. All because my middle school used an ancient textbook. Yet, it became a great foundation for me to learn C/C++ in high school, Python through an online course, and other languages at the university. 
+My first programming language was PascalABC.NET, a modern version of Pascal. Yes, you read it right, Pascal. All because my middle school used an ancient textbook. Yet, it became a great foundation for me to learn C/C++ in high school, Python through an online course, and other languages later at the university. 
 
-Now, I am a junior student studying Computer Science at University of Illinois at Chicago. I work as Undergraduate Research Assistant for a CS faculty, and Head Teaching Assistant for CS 111. I am also Recruitment Officer for Climbing Club at UIC, SparkHacks 2025 Organizing Committee Member and Sysengineer at Trackers at UIC. 
+Now, I am a junior student studying Computer Science at University of Illinois at Chicago. I work as Undergraduate Research Assistant for a CS faculty, and Teaching Assistant for CS 351. I am also SparkHacks 2025 Board Experience Member, Sysengineer at Trackers@UIC, SIG Hacks Lead at ACM@UIC, and Recruitment Officer for Climbing Club at UIC. 
 
 I have a diverse academic and professional background through coursework, work experience, personal and group projects, and self-learning. I'm passionate for learning, solving challenging problems, and teaching students.
 
-I am deeply interested in Software Development, Systems Programming, and Data Science, areas where I constantly seek to expand my knowledge and skills. I am seeking an internship for Summer 2025 in these areas but I am also open to Game and Web Development. Feel free to message me or contact me at kaitosekiya@outlook.com to discuss my qualifications further. Or just explore my GitHub profile (I know it's lacking content). 
+I am deeply interested in Web and Mobile Development, Systems Programming, Embedded, and Data Science, areas where I constantly seek to expand my knowledge and skills. I am not seeking an internship for Summer 2025 since I secured an offer to work as Web QA Software Engineer Intern at Cboe. Feel free to connect with me at LinkedIn to discuss my qualifications further. Or just explore my GitHub profile (I know it's lacking content and commits, and I need to update stuff below). 
 
 ## My Current Skills:
 
