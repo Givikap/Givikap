@@ -1,5 +1,5 @@
 # Hi, I'm Kaito Sekiya
-🌍 I'm based in Chicago  
+🌍 Based in Chicago  
 🎓 Pursuing B.S. in CS @ UIC  
 🏢 Working as a Web QA Software Engineer Intern at Cboe Global Markets
 
